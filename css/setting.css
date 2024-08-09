@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+.bg-banner {
+  background-image: url("../img/banner.png");
+}
+
+.burger-menu {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+}
+.burger-menu img {
+  width: 20px;
+}
+.change {
+  border: 1px solid;
+}
+.add {
+  border: 1px solid;
+}
+.popular-burger1 {
+  background: url("../img/image.png") no-repeat center;
+}
+.popular-burger2 {
+  background: url("../img/image (1).png") no-repeat center;
+}
+.popular-burger3 {
+  background: url("../img/image (2).png") no-repeat center;
+}
+.recent-pizza1 {
+  background: url("../img/pizza-2021-08-26-17-02-26-utc.png") no-repeat top;
+}
+.recent-pizza2 {
+  background: url("../img/ramen-asian-noodle-in-broth-with-meat-and-ajitama-2021-10-21-04-01-53-utc 1.png")
+    no-repeat top;
+}
+.recent-pizza3 {
+  background: url("../img/plate-of-asian-food-2021-08-26-16-31-39-utc 1.png")
+    no-repeat top;
+}
